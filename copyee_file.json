@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "XXXXXXXX",
+    "description": "適当な文章です",
+    "speaker": {
+      "id": 1,
+      "name": "justo. Nulla"
+    },
+    "slide_url": "copyee_1",
+    "share_url": ""
+  },
+  {
+    "id": 2,
+    "title": "XXYYYY",
+    "description": "適当な文章です2",
+    "speaker": {
+      "id": 2,
+      "name": "juascacasco. Nulla"
+    },
+    "slide_url": "dummy://copyee_2.com", # this line will be inserted to copy_to & copy_to2 (query:slide_url)
+    "share_url": ""
+  }
+]

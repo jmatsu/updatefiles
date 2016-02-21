@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "XXXXXXXX",
+    "description": "Dummy text",
+    "speaker": {
+      "id": 1,
+      "name": "justo. Nulla"
+    },
+    "slide_url": "",
+    "share_url": ""
+  },
+  {
+    "id": 2,
+    "title": "XXYYYY",
+    "description": "Dummy text2",
+    "speaker": {
+      "id": 2,
+      "name": "juascacasco. Nulla"
+    },
+    "slide_url": "",
+    "share_url": ""
+  }
+]
